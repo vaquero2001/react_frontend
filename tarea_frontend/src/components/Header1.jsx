@@ -1,5 +1,5 @@
 import logo from '../assets/images/logo.svg'
-import { NavBar } from './navbar'
+import { NavBar } from './NavBar'
 
 export const Header1 = () => {
   return (
